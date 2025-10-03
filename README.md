@@ -1,4 +1,4 @@
-# Data-Analytics-Ai-training Data Analyste Augmenté : L’IA au service de la Data – AI Institute 
+# Data-Analytics-Ai-training Data Analyste Augmenté : L’IA au service de la Data – AI Institute - JobInTech 
 
 # This repo documents my 4-month training in **Data Analytics augmented with AI**.  
 I’m a software developer expanding into data science, AI, and analytics.  
