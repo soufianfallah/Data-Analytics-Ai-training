@@ -26,4 +26,3 @@ This is both a **learning diary** and a **portfolio of projects**.
 - `blog/` → weekly reflections and articles  
 - `resources.md` → links and references  
 
----
