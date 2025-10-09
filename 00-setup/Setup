@@ -7,7 +7,7 @@ This is both a **learning diary** and a **portfolio of projects**.
 ---
 
 ## 📅 Progress Tracker
-- [x] Week 1: Setup & Intro
+- [x] Week 1: Cloud computing / AZ-900
 - [ ] Week 2: Descriptive Analytics
 - [ ] Week 3: Predictive Models
 - [ ] Week 4: Data Visualization
