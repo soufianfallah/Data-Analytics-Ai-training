@@ -7,7 +7,7 @@ This is both a **learning diary** and a **portfolio of projects**.
 ---
 
 ## 📅 Progress Tracker
-- [x] Week 1: Cloud computing / AZ-900 : https://github.com/soufianfallah/Data-Analytics-Ai-training/blob/d019c530ca96d321ee1ba32c36a6bf12847128f4/01-sessions/week-01.md
+- [x] - [Week 1 – Cloud Computing / AZ-900](01-sessions/week-01.md)
 - [ ] Week 2: Descriptive Analytics
 - [ ] Week 3: Predictive Models
 - [ ] Week 4: Data Visualization
