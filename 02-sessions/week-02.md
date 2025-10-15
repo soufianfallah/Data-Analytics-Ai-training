@@ -6,7 +6,7 @@
 - Responsible AI principles and considerations (fairness, transparency, privacy).  
 - Exploring **agent scenarios** and generative AI in practice (via Microsoft’s AI sims lab).  
 - Hands-on lab: **Explore AI agent scenarios** (using this lab:  
-  https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/02-explore-ai-agent.html).
+  https://microsoftlearning.github.io/mslearn-ai-sims/Instructions/Labs/02-explore-ai-agent.html ).
 
 ## 🧰 Tools & Setup
 - Azure AI / Cognitive Services or ML tools configured (or access via sandbox).  
