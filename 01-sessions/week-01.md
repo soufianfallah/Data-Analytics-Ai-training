@@ -31,4 +31,4 @@ Still, explored the Azure Portal interface and practiced creating basic resource
 ## 🚀 Next Steps
 - Deepen understanding of Azure compute and storage services.
 - Continue practicing with Azure portal.
-- Review mock tests and prep materials for the **AZ-900 exam** scheduled at the end of the Cloud Computing module.
+- Review mock tests and prep materials for the *AZ-900 exam* scheduled at the end of the Cloud Computing module.
