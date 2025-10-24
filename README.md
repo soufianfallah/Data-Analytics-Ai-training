@@ -9,7 +9,7 @@ This is both a **learning diary** and a **portfolio of projects**.
 ## 📅 Progress Tracker
 - [x] - [Week 1 – Cloud Computing / AZ-900](01-sessions/week-01.md)
 - [x] - [Week 2 – Azure AI Fundamentals / AI-900](02-sessions/week-02.md)
-- [ ] Week 3: 
+- [x] - [Week 2 – Azure AI Fundamentals / AI-900](03-sessions/week-03.md)
 - [ ] Week 4:
 - [ ] Month 2: 
 - [ ] Month 3: 
