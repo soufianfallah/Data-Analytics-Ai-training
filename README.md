@@ -10,7 +10,8 @@ This is both a **learning diary** and a **portfolio of projects**.
 - [x] - [Week 1 – Cloud Computing / AZ-900](01-sessions/week-01.md)
 - [x] - [Week 2 – Azure AI Fundamentals / AI-900](02-sessions/week-02.md)
 - [x] - [Week 3 – Azure Data Fundamentals / DP-900](03-sessions/week-03.md)
-- [ ] Week 4:
+- [x] - [Week 4 – Data Modeling, SQL Server, and NoSQL Foundations](04-session/week-04.md)
+- [ ] Week 5:
 - [ ] Month 2: 
 - [ ] Month 3: 
 - [ ] Month 4: 
