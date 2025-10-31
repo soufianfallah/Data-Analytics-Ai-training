@@ -1,4 +1,4 @@
-# Week 03 – Data Modeling, SQL Server, and NoSQL Foundations
+# Week 04 – Data Modeling, SQL Server, and NoSQL Foundations
 
 ## 📚 Topics Covered
 - Understanding data modeling concepts and their role in analytics and AI  
