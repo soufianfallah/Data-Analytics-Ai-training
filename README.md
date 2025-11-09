@@ -7,11 +7,11 @@ This is both a **learning diary** and a **portfolio of projects**.
 ---
 
 ## 📅 Progress Tracker
-- [x] - [Week 1 – Cloud Computing / AZ-900](01-sessions/week-01.md)
-- [x] - [Week 2 – Azure AI Fundamentals / AI-900](02-sessions/week-02.md)
-- [x] - [Week 3 – Azure Data Fundamentals / DP-900](03-sessions/week-03.md)
-- [x] - [Week 4 – Data Modeling, SQL Server, and NoSQL Foundations](04-session/week-04.md)
-- [ ] Week 5:
+- [x] - [Week 01 – Cloud Computing / AZ-900](01-sessions/week-01.md)
+- [x] - [Week 02 – Azure AI Fundamentals / AI-900](02-sessions/week-02.md)
+- [x] - [Week 03 – Azure Data Fundamentals / DP-900](03-sessions/week-03.md)
+- [x] - [Week 04 – Data Modeling, SQL Server, and NoSQL Foundations](04-session/week-04.md)
+- [x] - [Week 05 – Agile, Scrum, and the Role of the Scrum Master](05-session/week-05.md)
 - [ ] Month 2: 
 - [ ] Month 3: 
 - [ ] Month 4: 
