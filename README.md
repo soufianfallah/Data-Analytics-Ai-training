@@ -12,7 +12,7 @@ This is both a **learning diary** and a **portfolio of projects**.
 - [x] - [Week 03 – Azure Data Fundamentals / DP-900](03-sessions/week-03.md)
 - [x] - [Week 04 – Data Modeling, SQL Server, and NoSQL Foundations](04-session/week-04.md)
 - [x] - [Week 05 – Agile, Scrum, and the Role of the Scrum Master](05-session/week-05.md)
-- [ ] Month 2: 
+- [x] - [Week 06 – Azure DevOps, MLOps, SecOps, and Web App Delivery](06-session/week-06.md)
 - [ ] Month 3: 
 - [ ] Month 4: 
 
